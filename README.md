@@ -14,7 +14,7 @@ In this repository, you will find a collection of data science projects that I h
 
 ## Project List
 
-- [Project 1: Title](link-to-project1)
+- [Project 1: Capstone_Project_Introduction_to_Computer_Programming](Capstone_Project_Introduction_to_Computer_Programming.ipynb)
    - Description: A brief description of the project.
    - Technologies Used: List of technologies, libraries, and tools used.
    - Repository: Link to the project's repository for code and details.
